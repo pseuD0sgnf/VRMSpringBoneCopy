@@ -1,5 +1,7 @@
 # VRMSpringBoneCopy
-Make some modifications to VRMモデルのSpringBoneをコピーするツール(https://booth.pm/ja/items/1404532) for personal need.
+Make some modifications to VRMモデルのSpringBoneをコピーするツール(https://booth.pm/ja/items/1404532) for personal need, and translated into Chinese.
+
+基于个人需要对VRMSpringBone复制工具进行少许修改，并将菜单翻译成中文。
 
 # Notice
 Please ensure that the positions and sizes of the source and target avatars are the same.
